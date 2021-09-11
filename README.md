@@ -12,7 +12,7 @@ i will also try to make all assets like character models and animations to pract
 
 --- 
 
-![test image size](/Assets/assets/character_model.png){width=300px"}
+<img src="/Assets/assets/character_model.png" width="300" height="300">
 
 ### Why Godot
 - very lightweight engine
