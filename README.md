@@ -14,7 +14,7 @@ i will also try to make all assets like character models and animations to pract
 
 <img src="./Assets/assets/character_model.png" width="300" height="300">  
 
-![gif](./runcycle.gif)  
+<img src="./runcycle.gif" width="300" height="300">  
 
 ### Why Godot
 - Super lightweight engine
